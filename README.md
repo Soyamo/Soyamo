@@ -5,7 +5,7 @@
 🔭 I’m currently working on my research, Using Artifical Intelligence to detect Deepfaking<br>🌱 I’m currently doing my honour's degree in Computer Science<br>⚡ Fun fact: I prefer tabs over spaces🙂<br/>
 
 
-## 🌐 plastics:
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FKNDvczS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hiroyamo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svakala/) 
 
 # 💻 Tech Stack:
