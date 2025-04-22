@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=Soyamo&icon=5&color=13)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lloydsoyamo@outlook.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=NR3ZRTE62ERFY) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
